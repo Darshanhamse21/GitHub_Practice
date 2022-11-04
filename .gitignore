@@ -1,0 +1,4 @@
+*.log
+/new/
+/static/new/
+New_Excel.xlsx
